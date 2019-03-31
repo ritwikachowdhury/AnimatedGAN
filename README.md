@@ -1,7 +1,6 @@
 # AnimeGAN
 
-This repository contains my project I did in my Neural Networks & Applications course at IIT Kharagpur.\
-The developed GAN architecture is used to transoform real-world images into their animated variants
+This repository contains the code for my project "Animated Image Creation using Generative Adversarial Networks"
 
 ## Results
 
